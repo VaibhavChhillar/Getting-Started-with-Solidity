@@ -1,17 +1,18 @@
 [CREATING A TOKEN.md.docx](https://github.com/VaibhavChhillar/Getting-Started-with-Solidity/files/15429292/CREATING.A.TOKEN.md.docx)
 
-**CREATING A TOKEN!**
+# CREATING A TOKEN!
 Creating our own token 
-**Description**
+
+## Description
 1.	Introduction to Data Types
 2.	Mapping in Solidity
 3.	Functions Demonstration
    
-**Getting Started**
-**Installing**
+### Getting Started
+### Installing 
 •	You can use the online Ethereum IDE 
 
-**Executing program**
+### Executing program
 •	Go to Ethereum IDE(https://remix.ethereum.org/)  
 •	Create a new file and write your code 
 •	// SPDX-License-Identifier: MIT
@@ -57,15 +58,15 @@ Something like this will come in the terminal
 5.	Then again check the total supply
 
  
-**Help**
+## Help
 For any issue with the code take help of  debug option.
 
-**Authors**
+### Authors
 Vaibhav chhillar 
 vaicozchhillar@gmail.com                                                                                                     
 8053626353 
 
-**License**
+## License 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
